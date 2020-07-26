@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d62c29d0-8dba-4603-93d5-23bf1b091d33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/movie-rating-info-service.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/movie-rating-info-service.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/movie-rating-info-service.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/movie-rating-info-service.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.habtom.microservice.movieratingservice.MovieRatingServiceApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.habtom.microservice.movieratingservice.MovieRatingServiceApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.habtom.microservice.movieratingservice.MovieRatingServiceApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.habtom.microservice.movieratingservice.MovieRatingServiceApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595732964741</updated>
-      <workItem from="1595732967217" duration="2214000" />
+      <workItem from="1595732967217" duration="4141000" />
     </task>
     <task id="LOCAL-00001" summary="projet initial commit">
       <created>1595733036078</created>
@@ -86,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595736306560</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".mvn/wrapper plugin added....">
+      <created>1595737231508</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595737231508</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,33 +96,34 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="projet initial commit" />
     <MESSAGE value="projet initial commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="projet initial commit2" />
+    <MESSAGE value=".mvn/wrapper plugin added...." />
+    <option name="LAST_COMMIT_MESSAGE" value=".mvn/wrapper plugin added...." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="46" key="CommitChangelistDialog2" timestamp="1595736294430">
+    <state x="0" y="46" key="CommitChangelistDialog2" timestamp="1595737229044">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
-    <state x="0" y="46" key="CommitChangelistDialog2/0.22.1440.878@0.22.1440.878" timestamp="1595736294430" />
-    <state width="1328" height="224" key="GridCell.Tab.0.bottom" timestamp="1595737047979">
+    <state x="0" y="46" key="CommitChangelistDialog2/0.22.1440.878@0.22.1440.878" timestamp="1595737229044" />
+    <state width="1328" height="224" key="GridCell.Tab.0.bottom" timestamp="1595740386565">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
-    <state width="1328" height="224" key="GridCell.Tab.0.bottom/0.22.1440.878@0.22.1440.878" timestamp="1595737047979" />
-    <state width="1328" height="224" key="GridCell.Tab.0.center" timestamp="1595737047978">
+    <state width="1328" height="224" key="GridCell.Tab.0.bottom/0.22.1440.878@0.22.1440.878" timestamp="1595740386565" />
+    <state width="1328" height="224" key="GridCell.Tab.0.center" timestamp="1595740386564">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
-    <state width="1328" height="224" key="GridCell.Tab.0.center/0.22.1440.878@0.22.1440.878" timestamp="1595737047978" />
-    <state width="1328" height="224" key="GridCell.Tab.0.left" timestamp="1595737047978">
+    <state width="1328" height="224" key="GridCell.Tab.0.center/0.22.1440.878@0.22.1440.878" timestamp="1595740386564" />
+    <state width="1328" height="224" key="GridCell.Tab.0.left" timestamp="1595740386564">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
-    <state width="1328" height="224" key="GridCell.Tab.0.left/0.22.1440.878@0.22.1440.878" timestamp="1595737047978" />
-    <state width="1328" height="224" key="GridCell.Tab.0.right" timestamp="1595737047979">
+    <state width="1328" height="224" key="GridCell.Tab.0.left/0.22.1440.878@0.22.1440.878" timestamp="1595740386564" />
+    <state width="1328" height="224" key="GridCell.Tab.0.right" timestamp="1595740386565">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
-    <state width="1328" height="224" key="GridCell.Tab.0.right/0.22.1440.878@0.22.1440.878" timestamp="1595737047979" />
-    <state x="355" y="211" key="Vcs.Push.Dialog.v2" timestamp="1595736312161">
+    <state width="1328" height="224" key="GridCell.Tab.0.right/0.22.1440.878@0.22.1440.878" timestamp="1595740386565" />
+    <state x="355" y="211" key="Vcs.Push.Dialog.v2" timestamp="1595737235573">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
-    <state x="355" y="211" key="Vcs.Push.Dialog.v2/0.22.1440.878@0.22.1440.878" timestamp="1595736312161" />
+    <state x="355" y="211" key="Vcs.Push.Dialog.v2/0.22.1440.878@0.22.1440.878" timestamp="1595737235573" />
     <state x="420" y="215" width="670" height="675" key="run.anything.popup" timestamp="1595735965034">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
