@@ -1,0 +1,5 @@
+com/habtom/microservice/movieratingservice/MovieRatingServiceApplication.class
+com/habtom/microservice/movieratingservice/models/UserRating.class
+com/habtom/microservice/movieratingservice/models/Rating.class
+com/habtom/microservice/movieratingservice/controllers/RatingController.class
+com/habtom/microservice/movieratingservice/ServletInitializer.class
