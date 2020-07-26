@@ -1,5 +1,5 @@
-/Users/Hat/Desktop/MIU Courses resources/microservice projects/movie-rating-service/src/main/java/com/habtom/microservice/movieratingservice/models/UserRating.java
-/Users/Hat/Desktop/MIU Courses resources/microservice projects/movie-rating-service/src/main/java/com/habtom/microservice/movieratingservice/ServletInitializer.java
-/Users/Hat/Desktop/MIU Courses resources/microservice projects/movie-rating-service/src/main/java/com/habtom/microservice/movieratingservice/MovieRatingServiceApplication.java
-/Users/Hat/Desktop/MIU Courses resources/microservice projects/movie-rating-service/src/main/java/com/habtom/microservice/movieratingservice/models/Rating.java
-/Users/Hat/Desktop/MIU Courses resources/microservice projects/movie-rating-service/src/main/java/com/habtom/microservice/movieratingservice/controllers/RatingController.java
+/Users/Hat/Desktop/MIU Courses resources/microservice projects/docker and kubernets/movie-rating github/Movie-rating-info-microservice/src/main/java/com/habtom/microservice/movieratingservice/ServletInitializer.java
+/Users/Hat/Desktop/MIU Courses resources/microservice projects/docker and kubernets/movie-rating github/Movie-rating-info-microservice/src/main/java/com/habtom/microservice/movieratingservice/models/Rating.java
+/Users/Hat/Desktop/MIU Courses resources/microservice projects/docker and kubernets/movie-rating github/Movie-rating-info-microservice/src/main/java/com/habtom/microservice/movieratingservice/MovieRatingServiceApplication.java
+/Users/Hat/Desktop/MIU Courses resources/microservice projects/docker and kubernets/movie-rating github/Movie-rating-info-microservice/src/main/java/com/habtom/microservice/movieratingservice/models/UserRating.java
+/Users/Hat/Desktop/MIU Courses resources/microservice projects/docker and kubernets/movie-rating github/Movie-rating-info-microservice/src/main/java/com/habtom/microservice/movieratingservice/controllers/RatingController.java
